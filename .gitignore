@@ -1,3 +1,4 @@
-config.py
+config_csv.py
+config_json.py
 __pycache__/
 .ipynb_checkpoints/
