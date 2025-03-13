@@ -1,6 +1,6 @@
 [
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_31",
         "timestamp":"01\/03\/2025 15:50:00",
         "measure_time":8.066,
@@ -1009,7 +1009,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_32",
         "timestamp":"01\/03\/2025 15:50:23",
         "measure_time":8.065,
@@ -2018,7 +2018,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_33",
         "timestamp":"01\/03\/2025 15:50:38",
         "measure_time":8.066,
@@ -3027,7 +3027,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_34",
         "timestamp":"01\/03\/2025 15:50:55",
         "measure_time":8.066,
@@ -4036,7 +4036,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_35",
         "timestamp":"01\/03\/2025 15:55:46",
         "measure_time":8.066,
@@ -5045,7 +5045,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_36",
         "timestamp":"01\/03\/2025 17:27:16",
         "measure_time":8.067,
@@ -6054,7 +6054,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_37",
         "timestamp":"01\/03\/2025 17:29:30",
         "measure_time":8.065,
@@ -7063,7 +7063,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_38",
         "timestamp":"01\/03\/2025 17:30:44",
         "measure_time":8.066,
@@ -8072,7 +8072,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_39",
         "timestamp":"01\/03\/2025 17:31:39",
         "measure_time":8.067,
@@ -9081,7 +9081,7 @@
         ]
     },
     {
-        "category":"Rest and Clamped",
+        "category":"Repouso e Preso",
         "measure_id":"measure_40",
         "timestamp":"01\/03\/2025 17:33:52",
         "measure_time":8.066,
@@ -10090,7 +10090,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_41",
         "timestamp":"01\/03\/2025 17:44:27",
         "measure_time":8.065,
@@ -11099,7 +11099,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_42",
         "timestamp":"01\/03\/2025 17:45:34",
         "measure_time":8.066,
@@ -12108,7 +12108,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_43",
         "timestamp":"01\/03\/2025 17:46:06",
         "measure_time":8.066,
@@ -13117,7 +13117,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_44",
         "timestamp":"01\/03\/2025 17:55:22",
         "measure_time":8.065,
@@ -14126,7 +14126,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_45",
         "timestamp":"01\/03\/2025 17:55:38",
         "measure_time":8.066,
@@ -15135,7 +15135,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_46",
         "timestamp":"01\/03\/2025 17:55:53",
         "measure_time":8.065,
@@ -16144,7 +16144,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_47",
         "timestamp":"01\/03\/2025 18:25:20",
         "measure_time":8.066,
@@ -17153,7 +17153,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_48",
         "timestamp":"01\/03\/2025 18:25:35",
         "measure_time":8.065,
@@ -18162,7 +18162,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_49",
         "timestamp":"01\/03\/2025 18:25:50",
         "measure_time":8.066,
@@ -19171,7 +19171,7 @@
         ]
     },
     {
-        "category":"Rest Unclamped",
+        "category":"Repouso e Solto",
         "measure_id":"measure_50",
         "timestamp":"01\/03\/2025 18:29:03",
         "measure_time":8.066,
@@ -20180,7 +20180,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_51",
         "timestamp":"01\/03\/2025 21:38:02",
         "measure_time":8.067,
@@ -21189,7 +21189,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_52",
         "timestamp":"01\/03\/2025 21:38:49",
         "measure_time":8.067,
@@ -22198,7 +22198,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_53",
         "timestamp":"01\/03\/2025 21:39:44",
         "measure_time":8.066,
@@ -23207,7 +23207,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_54",
         "timestamp":"01\/03\/2025 21:39:59",
         "measure_time":8.066,
@@ -24216,7 +24216,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_55",
         "timestamp":"01\/03\/2025 21:40:13",
         "measure_time":8.067,
@@ -25225,7 +25225,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_56",
         "timestamp":"01\/03\/2025 21:40:28",
         "measure_time":8.066,
@@ -26234,7 +26234,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_57",
         "timestamp":"01\/03\/2025 21:41:06",
         "measure_time":8.066,
@@ -27243,7 +27243,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_58",
         "timestamp":"01\/03\/2025 21:41:21",
         "measure_time":8.066,
@@ -28252,7 +28252,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_59",
         "timestamp":"01\/03\/2025 21:41:35",
         "measure_time":8.066,
@@ -29261,7 +29261,7 @@
         ]
     },
     {
-        "category":"Unrest Clamped",
+        "category":"Sem Repouso e Preso",
         "measure_id":"measure_60",
         "timestamp":"01\/03\/2025 21:41:50",
         "measure_time":8.066,
@@ -30270,7 +30270,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_61",
         "timestamp":"01\/03\/2025 21:45:27",
         "measure_time":8.065,
@@ -31279,7 +31279,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_62",
         "timestamp":"01\/03\/2025 21:45:46",
         "measure_time":8.066,
@@ -32288,7 +32288,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_63",
         "timestamp":"01\/03\/2025 21:46:03",
         "measure_time":8.065,
@@ -33297,7 +33297,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_64",
         "timestamp":"01\/03\/2025 21:46:18",
         "measure_time":8.064,
@@ -34306,7 +34306,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_65",
         "timestamp":"01\/03\/2025 21:46:32",
         "measure_time":8.066,
@@ -35315,7 +35315,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_66",
         "timestamp":"01\/03\/2025 21:46:47",
         "measure_time":8.066,
@@ -36324,7 +36324,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_67",
         "timestamp":"01\/03\/2025 21:47:04",
         "measure_time":8.065,
@@ -37333,7 +37333,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_68",
         "timestamp":"01\/03\/2025 21:47:19",
         "measure_time":8.066,
@@ -38342,7 +38342,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_69",
         "timestamp":"01\/03\/2025 21:47:33",
         "measure_time":8.065,
@@ -39351,7 +39351,7 @@
         ]
     },
     {
-        "category":"Clamped with motion",
+        "category":"Preso e com Movimento",
         "measure_id":"measure_70",
         "timestamp":"01\/03\/2025 21:47:48",
         "measure_time":8.066,
